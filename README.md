@@ -15,8 +15,8 @@ Java, Sockets (ServerSocket, Socket), Threads, File I/O (FileWriter, BufferedWri
 
 ## Files
 
-- `ChatServer_up.java`: server (class `ChatServer`)
-- `ChatClient_up.java`: client (class `ChatClient`)
+- `ChatServer.java`: server (class `ChatServer`)
+- `ChatClient.java`: client (class `ChatClient`)
 
 ## How to run
 
