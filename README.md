@@ -23,7 +23,7 @@ Java, Sockets (ServerSocket, Socket), Threads, File I/O (FileWriter, BufferedWri
 Compile both files:
 
 ```bash
-javac ChatServer_up.java ChatClient_up.java
+javac ChatServer.java ChatClient.java
 ```
 
 Start the server in one terminal:
